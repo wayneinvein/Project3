@@ -1,0 +1,1 @@
+This Quiz Application is a simple console-based Java program designed to test and improve your knowledge in various domains such as Computer Networks, Operating Systems, and Object-Oriented Programming (OOPs). The app is interactive, user-friendly, and allows players to retake the quiz for a better experience and learning.
